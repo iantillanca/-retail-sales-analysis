@@ -1,13 +1,19 @@
-# -retail-sales-analysis
-Analisis información detallada sobre las ventas diarias de diferentes productos en una tienda
+# Retail Sales Analysis
 
-Carga y Preprocesamiento de Datos:
-Carga los datos del archivo CSV utilizando NumPy.
-Realiza un preprocesamiento básico para asegurarte de que los datos estén limpios y listos para su análisis.
-Exploración de Datos:
-Calcula el total de ventas por categoría de producto.
-Calcula el promedio de ventas diarias por categoría de producto.
-Identifica las categorías de productos con mayores y menores ventas.
-Manipulación de Datos:
-Filtra los datos para mostrar solo las ventas de una categoría de producto específica.
-Realiza operaciones de suma, resta, multiplicación y división en los datos para obtener estadísticas adicionales.
+Este proyecto analiza y predice las ventas de una tienda de retail utilizando técnicas de ciencia de datos.
+
+## Estructura del Proyecto
+
+- `data/`: Contiene los archivos de datos.
+- `notebooks/`: Contiene los notebooks de Jupyter para el análisis.
+- `src/`: Contiene el código fuente del proyecto.
+- `README.md`: Este archivo.
+
+## Instrucciones de Instalación
+
+1. Clona el repositorio: `git clone https://github.com/tu_usuario/retail-sales-analysis.git`
+2. Instala las dependencias: `pip install -r requirements.txt`
+
+## Uso
+
+Ejecuta los notebooks de Jupyter en la carpeta `notebooks` para realizar el análisis de los datos.
